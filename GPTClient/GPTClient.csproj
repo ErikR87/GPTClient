@@ -5,6 +5,11 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <RootNamespace>GPT</RootNamespace>
+	<PackageId>GPTClient</PackageId>
+	<Version>1.0.0</Version>
+	<Authors>Erik Rosemann</Authors>
+	<Description>This is a client for the GPT model.</Description>
+	<PackageTags>gpt client ai</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
