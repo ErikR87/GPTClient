@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GPTClient", "GPTClient\GPTClient.csproj", "{3D0FEB8C-665D-44A3-A0FE-6E5FB5A9C3F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleConsoleApp", "SampleConsoleApp\SampleConsoleApp.csproj", "{DF59AE3C-4B60-4915-8D04-128A6C51E0BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleConsoleApp", "SampleConsoleApp\SampleConsoleApp.csproj", "{DF59AE3C-4B60-4915-8D04-128A6C51E0BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,7 +18,6 @@ Global
 		{3D0FEB8C-665D-44A3-A0FE-6E5FB5A9C3F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D0FEB8C-665D-44A3-A0FE-6E5FB5A9C3F4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DF59AE3C-4B60-4915-8D04-128A6C51E0BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DF59AE3C-4B60-4915-8D04-128A6C51E0BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF59AE3C-4B60-4915-8D04-128A6C51E0BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF59AE3C-4B60-4915-8D04-128A6C51E0BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
