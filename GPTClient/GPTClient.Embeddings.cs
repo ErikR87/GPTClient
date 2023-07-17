@@ -1,5 +1,5 @@
 using GPT.Model.Embeddings;
-using GPTClient.Helper;
+using GPT.Helper;
 using Newtonsoft.Json;
 
 namespace GPT;

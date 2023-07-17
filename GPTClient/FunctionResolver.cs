@@ -1,6 +1,6 @@
-﻿using GPT.Model;
+﻿using GPT.Helper;
+using GPT.Model;
 using GPT.Model.FunctionCalling;
-using GPTClient.Helper;
 using Microsoft.Extensions.DependencyInjection;
 using Newtonsoft.Json;
 using System.Reflection;

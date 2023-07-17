@@ -1,6 +1,6 @@
-﻿using GPT.Model;
+﻿using GPT.Helper;
+using GPT.Model;
 using GPT.Model.FunctionCalling;
-using GPTClient.Helper;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
 
