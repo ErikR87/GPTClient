@@ -1,4 +1,4 @@
-﻿namespace GPTClient.Model.Embeddings;
+﻿namespace GPT.Model.Embeddings;
 
 public struct EmbeddingValue<T>
 {

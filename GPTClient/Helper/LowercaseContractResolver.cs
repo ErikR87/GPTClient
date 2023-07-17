@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json.Serialization;
 
-namespace GPTClient.Helper;
+namespace GPT.Helper;
 
 public class LowercaseContractResolver : DefaultContractResolver
 {

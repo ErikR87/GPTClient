@@ -1,6 +1,6 @@
 ﻿using System.Reflection;
 
-namespace GPTClient.Helper;
+namespace GPT.Helper;
 
 public static class ExtensionMethods
 {
