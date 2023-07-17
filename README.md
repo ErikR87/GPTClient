@@ -4,7 +4,7 @@
 This project includes functions for processing and executing GPT models, and a sample project that demonstrates how to use these functions.
 
 ## Installation
-`NuGet\Install-Package ErikR87.AI.GPTClient -Version 1.0.0`
+`dotnet add package ErikR87.AI.GPTClient`
 
 ## Sample Project
 The sample project located in the `SampleConsoleApp` directory is a simple console application that demonstrates how to use the functions in this project.
