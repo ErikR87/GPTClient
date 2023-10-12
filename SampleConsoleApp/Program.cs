@@ -20,7 +20,7 @@ IConfiguration config = configBuilder.Build();
 var gptConfig = new GPTClientConfig
 {
     Key = config["OpenAIKey"],
-    ChatModel = ChatModels.GPT_35_TURBO_0613,
+    ChatModel = ChatModels.GPT_4,
 };
 
 // optional: use function calling -> add all assemblies with functions (look at SpecialFunctions.cs)
